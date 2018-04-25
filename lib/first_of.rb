@@ -1,3 +1,5 @@
+#Public: Get the first element of the array
+#
 # array  - The array that you seek the first element of.
 #
 # Examples

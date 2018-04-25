@@ -1,3 +1,5 @@
+#Public: Get the last element of the array
+#
 # array  - The array that you seek the last element of.
 #
 # Examples
