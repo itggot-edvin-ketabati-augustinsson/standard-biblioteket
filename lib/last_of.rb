@@ -1,11 +1,11 @@
-#Public: Get the last element of the array
+# Public: Get the last element of the array
 #
 # array  - The array that you seek the last element of.
 #
 # Examples
 #
-#   last_of([0,1,3,5])
-#   # => 5
+# last_of([0,1,3,5])
+# # => 5
 #
 # Returns the last element of the array
 def last_of(array)
