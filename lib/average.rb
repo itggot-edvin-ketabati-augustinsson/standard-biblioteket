@@ -4,7 +4,7 @@
 #
 # Examples
 #
-# sum([0,1,3,5])
+# average([0,1,3,5])
 # # => 2,25
 #
 # Returns the average value of the integers in the array as a float.
