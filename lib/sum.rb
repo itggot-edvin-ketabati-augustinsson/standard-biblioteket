@@ -9,11 +9,15 @@
 #
 # Returns an integer.
 def sum(array)
-    i = 0
-    output = 0
-    while i < array.length
-        output = output + array[i]
-        i += 1
+    begin
+        i = 0
+        output = 0
+        while i < array.length
+            output = output + array[i]
+            i += 1
+        end
+        return output
+    rescue(TypeError)
+    return "Do not use string in integer addition. Potato"
     end
-    return output
 end
