@@ -1,6 +1,6 @@
 # Public: Adds all numbers in an array to an integer.
 #
-# array - Array that gets the number to it
+# array - Array with integers.
 #
 # Examples
 #
